@@ -1,0 +1,2 @@
+(window["webpackJsonp_sub-vue-cli4"]=window["webpackJsonp_sub-vue-cli4"]||[]).push([["path2"],{"76e8":function(e,t,n){"use strict";n.r(t);var s=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"container"},[e._v(" path2 ")])},a=[],c={},u=c,i=n("2877"),l=Object(i["a"])(u,s,a,!1,null,"5d092756",null);t["default"]=l.exports}}]);
+//# sourceMappingURL=path2.a09a9394.js.map
