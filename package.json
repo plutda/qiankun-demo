@@ -7,8 +7,8 @@
     "shelljs": "^0.8.5"
   },
   "scripts": {
-    "install:all": "npm-run-all --serial install:*",
-    "install:outside": "npm i",
+    "preinstall": "npm i npm-run-all shelljs -D",
+    "install": "npm-run-all --serial install:*",
     "install:main": "cd main && npm i",
     "install:sub-vue-cli2": "cd sub-vue-cli2 && npm i",
     "install:sub-vue-cli4": "cd sub-vue-cli4 && npm i",
