@@ -1,7 +1,7 @@
 # qiankun-admin-example
 **qiankun微前端demo，包含基于vue-cli2 和 vue-cli4创建的应用 和 react应用。**
 
-`npm install:all` 安装主子应用所有依赖
+`npm run install:all` 安装主子应用所有依赖
 
 `npm start` 启动所有应用
 
