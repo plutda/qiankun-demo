@@ -2,7 +2,7 @@ import store from './store'
 
 const host = location.host
 const env = process.env.NODE_ENV
-const entry_url_1 = env === 'development' ? '//localhost:8081/subapp/sub-vue-cli2/' : `//${host}/subapp/sub-vue-cli2/`
+const entry_url_1 = env === 'development' ? '//localhost:8080/subapp/sub-vue-cli2/' : `//${host}/subapp/sub-vue-cli2/`
 const entry_url_2 = env === 'development' ? '//localhost:8010/subapp/sub-vue-cli4/' : `//${host}/subapp/sub-vue-cli4/`
 const entry_url_3 = env === 'development' ? '//localhost:8020/subapp/sub-react/' : `//${host}/subapp/sub-react/`
 
