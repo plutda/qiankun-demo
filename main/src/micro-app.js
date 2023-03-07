@@ -10,7 +10,7 @@ const microApps = [
   {
     name: 'sub-vue-cli2',
     entry: entry_url_1,
-    routerBase: '/sub-vue-cli2',
+    routerBase: '/',
     defaultRegister: true
   },
   {
