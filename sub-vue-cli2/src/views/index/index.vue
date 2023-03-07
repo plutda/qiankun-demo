@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      来自父应用的状态: {{ msg.user_info.name }} - {{ msg.user_info.department }}
+      来自父应用的状态: {{ msg.user_info && msg.user_info.name }} - {{ msg.user_info && msg.user_info.department }}
     </div>
     <div>
       改变全局状态: <button @click="change">change</button>
