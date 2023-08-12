@@ -1,5 +1,8 @@
 # qiankun-admin-example
+
 **qiankun微前端demo，包含基于vue-cli2 和 vue-cli4创建的应用 和 react应用。**
+
+[在线预览](https://qiankun-admin-example.surge.sh/)
 
 `npm install` 安装主子应用所有依赖
 
