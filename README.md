@@ -1,4 +1,4 @@
-# qiankun-admin-example
+# qiankun-demo
 
 **qiankun微前端demo，包含基于vue-cli2 和 vue-cli4创建的应用 和 react应用。**
 
